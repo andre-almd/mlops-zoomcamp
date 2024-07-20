@@ -1,0 +1,10 @@
+/data/*.parquet
+
+/homework/artifacts
+/homework/output
+/homework/backend.db
+
+/mlruns
+/models
+
+mlflow.db
